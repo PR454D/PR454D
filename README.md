@@ -9,17 +9,13 @@
 
 
 
-
-<!-- - 🔭 I’m currently working on ****-->
-
+- 🔭 I’m currently working on **Java,Python,Typescript,Lua**
 
 - 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PR454D](https://github.com/PR454D)
 
-- 📫 How to reach me **https://pixeltee.xyz**
-
-- 📄 Know about my experiences [https://gitlab.com/PR454D/resume](https://gitlab.com/PR454D/resume)
+- 📄 Resume [https://gitlab.com/PR454D/resume](https://gitlab.com/PR454D/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
