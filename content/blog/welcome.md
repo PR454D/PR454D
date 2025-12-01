@@ -23,4 +23,4 @@ This portfolio and blog site showcases my work and projects. Feel free to explor
 
 ---
 
-Have feedback or want to discuss? Reach out on [LinkedIn](https://linkedin.com/in/prasad-sawool).
+Have feedback or want to discuss? Reach out on [LinkedIn](https://linkedin.com/in/prasad-sawool) or via [email](mailto:thc.prasads@gmail.com).
